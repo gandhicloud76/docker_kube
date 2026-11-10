@@ -1,0 +1,3 @@
+https://www.pazcare.com/salary-hike-calculator
+
+% = (New salary - old salary)/old salary
