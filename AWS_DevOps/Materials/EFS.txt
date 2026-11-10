@@ -1,0 +1,130 @@
+EFS:
+ 
+  It is a shared file system used with amazon EC2.  
+
+  With amazon EFS, applications running on multiple EC2 instance can access four file systemat the same time and the service uses the industry standard NFSV4 file access protocol-network file system 4.02 4.1.
+  
+  We can create EFS using AWS console within few clicks (or) AWS SDK (or) by AWS comand line interface.  
+
+  EC2 instance in the amazon VPC can mount your file system and begin storing data in EFS.
+  
+  Amazon EFS manager all the infra structure for us and automatically scales your files of the system storage capacity up (o4r) down as we add(or) remove files.
+
+  Ensuring us always have the storage, while reducing the consuming in administration task.
+
+  We have to only pay for the space of the files and directories. There's no minimum fee and no setep cost.
+
+  Making sure four data is available are secure is really important.
+  
+  It is designed to be durable and highly available and automatically replicates our data access multiple availabilities around in the region.
+ 
+  It gives the flexiblity to control who can access the file system and their contents.
+
+  Amazon voc security group and network access control list allow you to manage network access to amazon EFS.
+
+  File and directory levelamazon EFS supports user and group read/ write/ executed permission and amazon EFS intergrated with AWS identity and access management (IAM) to control access to amazom EFS administrative API.
+
+
+CONCLUSION:
+ 
+           Amazon EFS lets us run application that we shared storage in the cloud and automate the consuming storage administration task frame you to focus on application and business.
+
+
+PLACEMENT GROUP:-(Only theoredical) (10g connection)
+
+  It is nothing but instance running on log network and instance to instance connect on log network.
+
+  It is used only in big database end like hadoop why because it requries faster N/W and there br heavy load to database.
+
+
+EFS is:
+
+ Generally Available, but may not yet be available in your region
+
+ Network filesystem 
+
+ It is expensive compared to EBS (~10x more) but it gives extra features.
+
+ It's a highly available service. 
+
+ It's a managed service
+
+ You can attach the EFS storage to an EC2 Instance
+
+ Can be accessed by multiple EC2 instances simultaneously
+
+ Since 2016.dec.20 it's possible to attach your EFS storage directly to on-premise servers via Direct Connect. 
+
+
+
+EBS is:
+
+ A block storage, This means you are able to choose which type of file system you want.
+
+ It is really fast
+
+ It is relatively cheap
+
+ With the new announcements from Amazon, you can store up to 16TB data per storage on SSD-s.
+
+ You can snapshot an EBS for backup reasons
+
+ But it only exists in a particular region. Although you can migrate it to another region, you cannot just access it across regions.
+
+
+
+S3 is:
+
+ An object store (not a file system).
+
+ You can store files and "folders" but can't have locks, permissions etc like you would with a traditional file system
+
+ This means, by default you can't just mount S3 and use it as your webserver
+
+ But it's perfect for storing your images and videos for your website
+
+ Great for short term archiving (e.g. a few weeks). It's good for long term archiving too, but Glacier is more cost efficient.
+ 
+ Great for storing logs
+ 
+ You can access the data from every region (extra costs may apply)
+
+ Highly Available, Redundant. Basically data loss is not possible (99.999999999% durability, 99.9 uptime SLA)
+Much cheaper than EBS.
+ 
+ You can serve the content directly to the internet, you can even have a full (static) website working direct from S3, without an EC2 instance
+
+
+
+ADVANTAGES:
+
+ Seamless integration
+
+ Scale up and down automatically
+
+ Fully managed servce
+
+ Share file storage access across instance 
+
+ Consident scalable performance
+
+ Low cost
+
+ High availability & dutable 
+
+ Secure
+
+
+
+CALCULATION:
+
+ Total usage (GB-hours)=[GBx daysx (24hrs/day]
+
+eg: 
+ 
+ Total usage (GB-hours)=[250GBx 30daysx 24]
+                       =180,000 GB-Hours
+            GB-Months  =6000x0.30 
+                       = 1800 
+
+

@@ -1,0 +1,119 @@
+what is Direct Connect?
+
+
+AWS Direct Connect makes it easy to establish a dedicated network connection from your premises to AWS. 
+
+Using AWS Direct Connect, you can establish private connectivity between AWS and your datacenter, office, which in many cases can reduce your network costs.
+
+AWS Direct Connect lets you establish a dedicated network connection between your network and one of the AWS Direct Connect locations. Using industry standard 802.1q VLANS.
+
+This dedicated connection can be partitioned into multiple virtual interfaces, this allows you to use the same connection to access public resources such as objects stored in Amazon S3 using public IP address space, and private resources such as Amazon EC2 instances running within an Amazon Virtual Private Cloud (VPC) using private IP space, while maintaining network separation between the public and private environments
+
+And to be Important Virtual interfaces can be modified based on our needs.
+
+AWS Direct Connect is available at locations around the world.
+
+AWS Direct Connect’s simple pay as-you-go pricing and no minimum commitment means you pay only for the network ports you use and the data you transfer out of the AWS Region over the AWS Direct Connect connection, which can greatly reduce your networking costs
+
+
+Highights: 
+
+1.Reduces Your Bandwidth Costs
+
+2.Consistent Network Performance
+
+3.Compatible with all AWS Services
+	
+	Works with all AWS services that are accessible over the Internet, such as Amazon 		Simple Storage Service (Amazon S3), Elastic Compute Cloud (Amazon EC2), and Amazon 		Virtual Private Cloud (Amazon VPC).
+
+4.Elastic
+	AWS Direct Connect makes it easy to scale your connection to meet your needs. AWS 
+	Direct Connect provides 1 Gbps and 10 Gbps connections.
+	
+	You can also use AWS Direct Connect instead of establishing a VPN connection over 		the Internet to your Amazon VPC, avoiding the need to utilize VPN hardware that 		frequently can’t support data transfer rates above 4 Gbps.
+
+5.Simple 
+
+	You can sign up for AWS Direct Connect service quickly and easily using the AWS 		Console
+
+
+When to use AWS Direct Connect ?
+
+1.Working with Large Data Sets: 
+
+	a.Transferring large data sets over the Internet can be time consuming and 			expensive.
+	b.To decrease the amount of time required to transfer your data, you could increase 	the bandwidth to your Internet service provider, which frequently requires a costly 	contract renewal and a minimum commitment.
+	c. With AWS Direct Connect, you can transfer your business critical data directly 		from your datacenter, office environment into and from AWS bypassing your 			Internet service provider and removing network congestion
+
+2.Real-time Data Feeds:
+	a. Applications that use real-time data feeds can also benefit from using AWS 	   		Direct Connect. For example, applications such as voice and video perform best 	   		when network latency remains constant.
+	b. With AWS Direct Connect, you control how your data is routed, which can provide 	   	a more consistent network experience over Internet-based connections.
+
+3.Hybrid Environments: 
+	AWS Direct Connect can help you build hybrid environments that satisfy regulatory 		requirements requiring the use of private connectivity.
+
+
+Pricing: 
+
+
+
+AWS Direct Connect Ports : 
+
+Pricing is per port-hour for all AWS Direct Connect locations.
+
+our prices are exclusive of applicable taxes and duties, including VAT and applicable sales tax.
+
+
+
+Port Speed	Port-Hour Rate (All Regions except Japan)	Port-Hour Rate in Japan
+50M*		$0.03/hour					$0.029/hour
+100M*		$0.06/hour					$0.057/hour
+200M*		$0.12/hour					$0.114/hour
+300M*		$0.18/hour					$0.171/hour
+400M*		$0.24/hour					$0.228/hour
+500M*		$0.30/hour					$0.285/hour
+1G		$0.30/hour					$0.285/hour
+10G		$2.25/hour					$2.142/hour
+
+
+Data Transfer : 
+
+
+Data Transfer In is $0.00 per GB in all locations.
+
+Data Transfer Out pricing is dependent on the source AWS Region and AWS Direct Connect location.
+
+
+Questions: 
+
+Q. What is AWS Direct Connect?
+
+AWS Direct Connect is a network service that provides an alternative to using the Internet to connect customer's on premise sites to AWS.
+
+
+Q. Which AWS services can be used with AWS Direct Connect?
+
+All AWS services, including Amazon Elastic Compute Cloud (EC2), Amazon Virtual Private Cloud (VPC), Amazon Simple Storage Service (S3), and Amazon DynamoDB can be used with AWS Direct Connect.
+
+
+Q. What connection speeds are supported by AWS Direct Connect?
+
+1Gbps and 10Gbps ports are available.Speeds of 50Mbps, 100Mbps, 200Mbps, 300Mbps, 400Mbps, and 500Mbps can be ordered from any APN partners supporting AWS Direct Connect. Read more about APN Partners supporting AWS Direct Connect.
+
+
+Q. Are there limits on the amount of data that I can transfer using AWS Direct Connect?
+
+No. You may transfer any amount of data up to the limit of your selected port speed.
+
+
+Q. Will I lose connectivity if my AWS Direct Connect link fails?
+
+If you have established a second AWS Direct Connect connection, traffic will failover to the second link automatically. We recommend enabling Bidirectional Forwarding Detection (BFD) when configuring your connections to ensure fast detection and failover. 
+
+
+Q. Can I connect to the Internet via this connection?
+
+No.
+
+
+

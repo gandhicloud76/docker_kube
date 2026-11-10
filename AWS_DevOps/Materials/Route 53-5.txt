@@ -1,0 +1,41 @@
+
+
+- Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service.
+
+- It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names
+ like www.example.com into the numeric IP addresses like 192.0.2.1 that computers use to connect to each other. Amazon Route 53 is fully compliant with IPv6 as well.
+
+- Amazon Route 53 effectively connects user requests to infrastructure running in AWS – such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets
+
+
+Features: 
+
+Traffic Flow
+Easy-to-use and cost-effective global traffic management: route end users to the best endpoint for your application based on latency, health, and other considerations.
+
+Latency Based Routing
+Route end users to the AWS region that provides the lowest possible latency.
+
+Geo DNS
+Route end users to a particular endpoint that you specify based on the end user’s geographic location.
+
+Private DNS for Amazon VPC
+Manage custom domain names for your internal AWS resources without exposing DNS data to the public Internet.
+
+DNS Failover
+Automatically route your website visitors to an alternate location to avoid site outages.
+
+Health Checks and Monitoring
+Amazon Route 53 can monitor the health and performance of your application as well as your web servers and other resources.
+
+Domain Registration
+Amazon Route 53 offers domain name registration services, where you can search for and register available domain names or transfer in existing domain names to be managed by Route 53.
+
+Weighted Round Robin
+Amazon Route 53 offers Weighted Round Robin (WRR) functionality.
+
+Amazon ELB Integration
+Amazon Route 53 is integrated with Elastic Load Balancing (ELB).
+
+Management Console
+Amazon Route 53 works with the AWS Management Console. This web-based, point-and-click, graphical user interface lets you manage Amazon Route 53 without writing any code at all. 

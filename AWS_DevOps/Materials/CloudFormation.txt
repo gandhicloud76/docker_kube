@@ -1,0 +1,43 @@
+
+AWS CloudFormation:
+- AWS CloudFormation is a service that helps you model and set up your AWS resources.
+- So that you can spend less time managing those resources and more time focusing on your applications
+that run in AWS.
+
+Codifies creation of stack of resources
+stack could be:
+	- ELB
+	- AutoScaling group
+	- EC2
+	- RDS [DataBase]
+	- All Connections between them.
+
+Benefits of CF:
+
+	- Your Infrastructure as CODE.
+	- Can be version Controlled
+	- No more guessing.. Who did.. what.. where..
+	- Modularization
+	- Enforce "One way to deploy"
+	- CF costs nothing but for the resources created using it.
+
+Important about CF:
+
+- If you sign up with Cloud formation means, you are signing up with ALL AWS SERVICES, that CF can create,
+- Setting up Alarms!
+- 200-300 templates are available to choose.
+- Templates are JSON based
+- Templates can accept "RunTime" parameters [Instance type / Key Pair].
+
+
+Sections in the Templates of Cloud Formation:
+There are 7 sections:
+
+1. Version [of CF] - Which Year it was build, in date format.
+2. Description -  It gives details about the template.
+3. Parameters - Runtime variables, like subnet, VPCID, InstanceTypes, DB Name, etc.
+4. Mappings - Available types and allocated.
+5. Resources [AWS to create] - ELB, WebServers, AppSvrs, etc.
+6. Properties - Specific to Resources
+7. OutPuts - Final outputs upon creation.
+

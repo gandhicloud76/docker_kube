@@ -1,0 +1,4 @@
+#! /bin/bash
+yum install httpd -y
+service httpd start
+echo "This is my demo ASG" > /var/www/html/index.html

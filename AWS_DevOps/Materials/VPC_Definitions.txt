@@ -1,0 +1,65 @@
+AWS VPC
+========
+
+
+172.1.2.23
+
+CIDR:
+=====
+Classless inter-domain routing (CIDR) is a set of Internet protocol (IP) standards that is used to create unique identifiers for networks and individual devices. The IP addresses allow particular information packets to be sent to specific computers. ... That system is known as CIDR notation.
+
+
+Subnet in AWS
+============
+VPC and Subnet Basics. A virtual private cloud (VPC) is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud. You can launch your AWS resources, such as Amazon EC2 instances, into your VPC.
+
+A subnetwork or subnet is a logical subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting. Computers that belong to a subnet are addressed with a common, identical, most-significant bit-group in their IP address.
+
+
+Route Tables:
+===========
+A route table contains a set of rules, called routes, that are used to determine where network traffic is directed.
+Each subnet in your VPC must be associated with a route table; the table controls the routing for the subnet. A subnet can only be associated with one route table at a time, but you can associate multiple subnets with the same route table.
+
+The following are the basic things that you need to know about route tables:
+
+Your VPC has an implicit router.
+Your VPC automatically comes with a main route table that you can modify.
+You can create additional custom route tables for your VPC.
+Each subnet must be associated with a route table, which controls the routing for the subnet. If you don't explicitly associate a subnet with a particular route table, the subnet is implicitly associated with the main route table.
+You cannot delete the main route table, but you can replace the main route table with a custom table that you've created (so that this table is the default table each new subnet is associated with).
+
+
+
+Internet Gateways:
+===============
+An Internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the Internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
+
+An Internet gateway serves two purposes: to provide a target in your VPC route tables for Internet-routable traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
+
+An Internet gateway supports IPv4 and IPv6 traffic.
+
+To enable access to or from the Internet for instances in a VPC subnet, you must do the following:
+
+Attach an Internet gateway to your VPC.
+Ensure that your subnet's route table points to the Internet gateway.
+Ensure that instances in your subnet have a globally unique IP address (public IPv4 address, Elastic IP address, or IPv6 address).
+Ensure that your network access control and security group rules allow the relevant traffic to flow to and from your instance.
+
+
+
+Steps to Create and set up a VPC in AWS environment:
+=============================================
+
+1. Create a own VPC.
+2. Create a Public and Private subnet for different Available AZs by assigning diferent CIDR blocks.
+3. Create Internet Gateway & attach it to the VPC.
+4. Create Routing table [RT], One as Public & One as Private by associating the appropirate subnets to it.
+5. Edit the Public route table's Route alone and map the IGW, not the Private and leave it as it is.
+6. Create Two Security Groups - One for Public [Edit the Inbound rules with RDP, HTTP/HTTPS, SSH and map 0.0.0.0/0 in the source]  & One for Private [Edit the inbound rules and map the SG of Public in the source].
+7. Create Two EC2s one in public and one in private subnets with proper Security Groups.
+8. Login into Public and check the internet connection.
+9. Create NAT gateway with new Elastic IP for the internet connection in the Private Subnet. Map it to Private RT.
+10. Now login into the Private EC2 and verify the connectivity and Internet facility.
+
+
