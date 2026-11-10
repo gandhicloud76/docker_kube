@@ -1,0 +1,10 @@
+AWS CodeCommit - completed
+AWS Code Pipeline - completed
+
+CI/CD Architecture - completed 73.68%
+
+Terraform - completed 
+Git - Completed
+
+AWS CodeDeploy
+7010435597 sunil
