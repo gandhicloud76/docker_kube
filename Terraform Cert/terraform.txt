@@ -1,0 +1,9 @@
+Terraform site login id : gandhicloud76
+Password : Terraform@12345
+
+Exam booking site :https://home.psiexams.com/#/home
+https://cp.certmetrics.com/hashicorp/en/home/dashboard
+https://github.com/login?client_id=a51864f5ae0eae0e91de&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Da51864f5ae0eae0e91de%26login_hint%3D%26redirect_uri%3Dhttps%253A%252F%252Fauth.hashicorp.com%252Flogin%252Fcallback%26response_type%3Dcode%26scope%3Duser%253Aemail%252Cread%253Auser%26state%3DEC64WNLXhMcNNrwLHjDFp6HTIxfrJm_M 
+github login id
+Login id : gandhi76cloud@gmail.com
+Password: Terraform@12	
