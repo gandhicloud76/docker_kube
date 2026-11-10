@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://cmf.atos-srv.net/Nagios/Framework/index.php?action=hosts/view&State=CRITICAL&_State=2
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://cmf.atos-srv.net/Nagios/Framework/index.php?action=hosts/view&State=CRITICAL&_State=2
+IconFile=https://cmf.atos-srv.net/favicon.ico
+IconIndex=1

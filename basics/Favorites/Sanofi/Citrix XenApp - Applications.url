@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://asn-emea-de-021.saacon.net/Citrix/SAaCon/site/default.aspx
+[DOC_launchFrameWI_2RdkYJkOphCOHJcge]
+BASEURL=https://asn-emea-de-021.saacon.net/Citrix/SAaCon/site/appembed.aspx?CTX_Application=Citrix.MPS.App.AdmingateSaacon.Microsoft%20Internet%20Explorer_DE&CTX_AppFriendlyNameURLENcoded=Microsoft%20Internet%20Explorer_DE&CTX_Token=B4C3AF8589CC973C12E6A3ABDE57DA10&LaunchId=1459420577653&CTX_WindowWidth=1440&CTX_WindowHeight=900&Title=Microsoft%20Internet%20Explorer_DE
+ORIGURL=launcher.aspx?CTX_Application=Citrix.MPS.App.AdmingateSaacon.Microsoft%20Internet%20Explorer_DE&CTX_Token=B4C3AF8589CC973C12E6A3ABDE57DA10&LaunchId=1459420577653
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://asn-emea-de-021.saacon.net/Citrix/SAaCon/site/default.aspx
+IDList=
+IconFile=https://asn-emea-de-021.saacon.net/Citrix/SAaCon/media/IcaComboAll.ico
+IconIndex=1

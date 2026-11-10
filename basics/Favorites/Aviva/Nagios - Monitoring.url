@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://cmf.atos-srv.net/Nagios/Framework/index.php?action=notice
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://cmf.atos-srv.net/Nagios/Framework/index.php?action=notice
+IDList=
+IconFile=https://cmf.atos-srv.net/favicon.ico
+IconIndex=1
+[Search]
+VisitCount=057
+SelectionCount=057
+DateVisited=2021/10/03:23:05:04.797

@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=res://C:\WINDOWS\system32\xpsp3res.dll/dnserror.htm
+[InternetShortcut]
+URL=http://sati.intra.renault.fr/reversointranet/ASP/default.asp
+Modified=F01A61355B95CB015C
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[Search]
+VisitCount=02
+SelectionCount=02

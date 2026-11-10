@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://licensing.subscribenet.com/service/ibmr/passwordfindertoken?token=QUIaycwmK5oq1cSEYk0BLcDsaQtWl1s%2FlZafXj%2BssY7UlD%2BBNp3iFtRGWSt0A7RD
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://licensing.subscribenet.com/service/ibmr/passwordfindertoken?token=QUIaycwmK5oq1cSEYk0BLcDsaQtWl1s%2FlZafXj%2BssY7UlD%2BBNp3iFtRGWSt0A7RD
+IDList=
+IconFile=https://licensing.subscribenet.com/favicon.ico
+IconIndex=1

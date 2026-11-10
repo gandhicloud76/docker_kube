@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://atosglobal.service-now.com/nav_to.do?uri=%2Fincident_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dactive%253Dtrue%255Eassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744%255EEQ
+[DOC_gsft_main]
+BASEURL=https://atosglobal.service-now.com/incident_list.do?sysparm_query=active%3Dtrue%5Eassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744%5EEQ&sysparm_clear_stack=true&sysparm_nostack=true
+ORIGURL=welcome.do
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://atosglobal.service-now.com/nav_to.do?uri=%2Fincident_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dactive%253Dtrue%255Eassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744%255EEQ
+IDList=
+IconFile=https://atosglobal.service-now.com/favicon.ico
+IconIndex=1

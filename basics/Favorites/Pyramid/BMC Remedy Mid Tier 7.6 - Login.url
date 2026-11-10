@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://it-servicedesk.na.xerox.net/arsys/shared/login.jsp?/arsys/forms/it-servicedesk.na.xerox.net/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://it-servicedesk.na.xerox.net/arsys/shared/login.jsp?/arsys/forms/it-servicedesk.na.xerox.net/
+IDList=
+IconFile=https://it-servicedesk.na.xerox.net/arsys/resources/images/favicon.ico
+IconIndex=1
+[Search]
+VisitCount=02
+SelectionCount=02
+DateVisited=2017/05/04:14:06:27.608

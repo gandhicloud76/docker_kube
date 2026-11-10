@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=res://C:\WINDOWS\system32\xpsp3res.dll/dnserror.htm
+[InternetShortcut]
+URL=http://vm338aos.corp.noxiane.net/Citrix/DesktopWeb/auth/login.aspx
+Modified=A0DA3CC5DA71CB0192
+IDList=
+HotKey=0
+IconFile=http://vm338aos.corp.noxiane.net/Citrix/DesktopWeb/media/XenDesktopComboAll.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[Search]
+VisitCount=017
+SelectionCount=017

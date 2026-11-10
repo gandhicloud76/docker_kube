@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.vmware.com/partners.html
+[DOC_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/d_vbiawPdxB.js?version=44#channel=f352eea14471a6&origin=https%3A%2F%2Fwww.vmware.com
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.vmware.com/partners.html
+IDList=
+IconFile=https://www.vmware.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://source.myatos.net/aousdform/webforms/allcountries.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://source.myatos.net/aousdform/webforms/allcountries.aspx
+IDList=
+IconFile=https://source.myatos.net/favicon.ico
+IconIndex=1
+[Search]
+VisitCount=02
+SelectionCount=02

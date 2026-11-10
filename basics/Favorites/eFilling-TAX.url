@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://incometaxindiaefiling.gov.in/e-Filing/UserLogin/LoginHome.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://incometaxindiaefiling.gov.in/e-Filing/UserLogin/LoginHome.html
+IDList=
+IconFile=https://incometaxindiaefiling.gov.in/favicon.ico
+IconIndex=1
+[Search]
+VisitCount=02
+SelectionCount=02
+DateVisited=2017/07/07:15:00:26.368

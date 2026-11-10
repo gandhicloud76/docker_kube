@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://rtc5a.gsissc.myatos.net/rtc5a/web/projects/FR_BEZ_AM_RENAULT_TMA
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://rtc5a.gsissc.myatos.net/rtc5a/web/projects/FR_BEZ_AM_RENAULT_TMA#action=com.ibm.team.dashboard.viewDashboard&tab=_8
+IDList=
+IconFile=https://rtc5a.gsissc.myatos.net/rtc5a/web/com.ibm.team.rtc.web/ui/graphics/UICustomizations/RationalTeamConcert.ico
+IconIndex=1

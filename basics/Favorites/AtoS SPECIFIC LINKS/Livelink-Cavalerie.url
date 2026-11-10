@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://knowledge.myatos.net/Livelink/livelink.exe?func=ll&objId=127546246&objAction=browse&sort=name
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://knowledge.myatos.net/Livelink/livelink.exe?func=ll&objId=127546246&objAction=browse&sort=name
+IDList=
+IconFile=https://knowledge.myatos.net/img/atoslookandfeel/img/favicon.ico
+IconIndex=1

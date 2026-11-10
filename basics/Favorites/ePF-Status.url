@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://epfoservices.in/epfo/member_balance/member_balance_office_select.php
+[InternetShortcut]
+URL=http://epfoservices.in/epfo/member_balance/member_balance_office_select.php
+IDList=
+IconFile=http://epfoservices.in/epfo/member_balance/images/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

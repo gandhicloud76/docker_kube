@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://virtual415.labtech.pls.renault.fr:9000/log/index.php
+[InternetShortcut]
+URL=http://virtual415.labtech.pls.renault.fr:9000/log/index.php
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

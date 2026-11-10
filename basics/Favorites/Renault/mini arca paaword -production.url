@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://adp.intra.renault.fr/adp/servlet/entreeprivee?action=handler.accueil
+[InternetShortcut]
+URL=http://adp.intra.renault.fr/adp/servlet/entreeprivee?action=handler.accueil
+Modified=A07A74E36681CB0124
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

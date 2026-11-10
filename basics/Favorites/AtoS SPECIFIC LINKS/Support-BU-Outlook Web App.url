@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://web.uc.atosorigin.com/OWA/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fweb.uc.atosorigin.com%2fOWA%2f
+[InternetShortcut]
+URL=https://web.uc.atosorigin.com/OWA/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fweb.uc.atosorigin.com%2fOWA%2f
+IDList=
+IconFile=https://web.uc.atosorigin.com/owa/14.2.309.2/themes/resources/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11

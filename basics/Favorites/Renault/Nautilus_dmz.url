@@ -1,0 +1,17 @@
+[DEFAULT]
+BASEURL=https://dmzlogs.intra.renault.fr:448/nau/index.jsp
+[DOC#4#5]
+BASEURL=https://dmzlogs.intra.renault.fr:448/nau/requete.jsp
+ORIGURL=requete.jsp
+[DOC#4#6]
+BASEURL=https://dmzlogs.intra.renault.fr:448/nau/result.jsp
+ORIGURL=blanc.jsp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://dmzlogs.intra.renault.fr:448/nau/index.jsp
+IDList=
+[Search]
+VisitCount=02
+SelectionCount=02
+DateVisited=2016/05/04:16:51:32.351

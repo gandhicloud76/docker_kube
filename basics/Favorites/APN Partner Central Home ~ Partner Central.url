@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://partnercentral.awspartner.com/home
+[DOC#341]
+BASEURL=https://login.salesforce.com/login/sessionserver212.html
+ORIGURL=https://login.salesforce.com/login/sessionserver212.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://partnercentral.awspartner.com/home
+IDList=
+IconFile=https://partnercentral.awspartner.com/favicon.ico
+IconIndex=1

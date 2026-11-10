@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://admingate-emea.saacon.net/Citrix/XenApp/site/default.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://admingate-emea.saacon.net/Citrix/XenApp/site/default.aspx
+IDList=
+IconFile=https://admingate-emea.saacon.net/Citrix/XenApp/media/IcaComboAll.ico
+IconIndex=1

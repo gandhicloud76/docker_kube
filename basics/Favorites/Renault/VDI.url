@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=https://mcdvcloud.aofr.fr.int.atosorigin.com/cloud/org/VDI_Nantes/
+[InternetShortcut]
+URL=https://aofrlvcloud.aofr.fr.int.atosorigin.com/cloud/org/atos/#/orgUserHome
+IDList=
+IconFile=https://mcdvcloud.aofr.fr.int.atosorigin.com/cloud/org/VDI_Nantes/favicon.ico
+IconIndex=1
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[DOC_swfaddress]
+BASEURL=https://mcdvcloud.aofr.fr.int.atosorigin.com/cloud/org/VDI_Nantes/
+ORIGURL=javascript:false;
+[Search]
+VisitCount=04
+SelectionCount=04

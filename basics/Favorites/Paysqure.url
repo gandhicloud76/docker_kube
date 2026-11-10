@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=https://app1.mcslapps.com/
+[InternetShortcut]
+URL=https://app1.mcslapps.com/
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11

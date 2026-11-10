@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://sp.myatos.net/si/gdc/in/am/clients/RENAULTODC/GDP/Lists/PrjProposal/Forms/AllItems.aspx?RootFolder=%2Fsi%2Fgdc%2Fin%2Fam%2Fclients%2FRENAULTODC%2FGDP%2FLists%2FPrjProposal%2F5%2DOther%2FInfra%5FSecurity&FolderCTID=0x012000433A2FED42BDD34A83DFD944A3053246&View={B190BED6-1D94-4830-9989-EE6816A91A70}
+[DOC_FilterIframe9227]
+BASEURL=javascript:false;
+ORIGURL=javascript:false;
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://sp.myatos.net/si/gdc/in/am/clients/RENAULTODC/GDP/Lists/PrjProposal/Forms/AllItems.aspx?RootFolder=%2Fsi%2Fgdc%2Fin%2Fam%2Fclients%2FRENAULTODC%2FGDP%2FLists%2FPrjProposal%2F5%2DOther%2FInfra%5FSecurity&FolderCTID=0x012000433A2FED42BDD34A83DFD944A3053246&View={B190BED6-1D94-4830-9989-EE6816A91A70}
+IDList=
+IconFile=https://sp.myatos.net/_layouts/Atos.KM.Extensions.Web/images/favicon.ico
+IconIndex=1
