@@ -1,9 +1,0 @@
-[DEFAULT]
-BASEURL=https://wiki.myatos.net/login.action;jsessionid=485BCAC27976EE2A9F55480528BD0708?os_destination=%2Fdisplay%2FRLTInfra%2FRenault%2B-%2BSuivi%2Bdes%2Bfichiers%2Binfrastructure
-[InternetShortcut]
-URL=https://wiki.myatos.net/login.action;jsessionid=485BCAC27976EE2A9F55480528BD0708?os_destination=%2Fdisplay%2FRLTInfra%2FRenault%2B-%2BSuivi%2Bdes%2Bfichiers%2Binfrastructure
-IDList=
-IconFile=https://wiki.myatos.net/download/resources/com.atlassian.confluence.themes.ao:ao/favicon.ico
-IconIndex=1
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,11

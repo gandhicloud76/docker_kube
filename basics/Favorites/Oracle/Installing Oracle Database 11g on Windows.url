@@ -1,9 +1,0 @@
-[DEFAULT]
-BASEURL=http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r1/prod/install/dbinst/windbinst2.htm
-[InternetShortcut]
-URL=http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/11g/r1/prod/install/dbinst/windbinst2.htm
-IDList=
-IconFile=http://www.oracle.com/favicon.ico
-IconIndex=1
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,2

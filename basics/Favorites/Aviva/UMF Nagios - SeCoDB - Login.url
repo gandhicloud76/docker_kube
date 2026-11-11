@@ -1,7 +1,0 @@
-[DEFAULT]
-BASEURL=https://sap09598.de.it-solutions.myatos.net/cgi-bin/edp/seco.cgi
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,11
-[InternetShortcut]
-URL=https://sap09598.de.it-solutions.myatos.net/cgi-bin/edp/seco.cgi
-IDList=

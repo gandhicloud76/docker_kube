@@ -1,9 +1,0 @@
-[DEFAULT]
-BASEURL=https://atosglobal.service-now.com/sc_task_list.do?sysparm_first_row=1&sysparm_query=active%3Dtrue%5Eassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744&sysparm_view=
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,11
-[InternetShortcut]
-URL=https://atosglobal.service-now.com/sc_task_list.do?sysparm_first_row=1&sysparm_query=active%3Dtrue%5Eassignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744&sysparm_view=
-IDList=
-IconFile=https://atosglobal.service-now.com/favicon.ico
-IconIndex=1
