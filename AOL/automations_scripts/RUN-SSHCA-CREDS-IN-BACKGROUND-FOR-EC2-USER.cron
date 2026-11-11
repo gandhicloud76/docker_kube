@@ -1,2 +1,0 @@
-# (AWS environment) Load agent every 4 hours. SSHCA cert is valid for 12 hours.
-0 */4 *  *  * sh /home/ec2-user/RUN-SSHCA-CREDS-IN-BACKGROUND-FOR-EC2-USER.sh >/home/ec2-user/RUN-SSHCA-CREDS-IN-BACKGROUND-FOR-EC2-USER.log 2>&1

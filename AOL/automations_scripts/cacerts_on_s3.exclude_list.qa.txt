@@ -1,3 +1,0 @@
-./ObiSigningCA1/
-./ObiSigningCA3/
-./ObiRootCA/

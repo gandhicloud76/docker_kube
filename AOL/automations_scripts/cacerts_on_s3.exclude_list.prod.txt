@@ -1,2 +1,0 @@
-./ObiSigningCA1/
-./ObiSigningCA3/
